@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551054078652",
+    "firebase_url": "https://android-chat-bot.firebaseio.com",
+    "project_id": "android-chat-bot",
+    "storage_bucket": "android-chat-bot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551054078652:android:1b249c218738a1c0e096b9",
+        "android_client_info": {
+          "package_name": "social.media.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551054078652-4tbou28pdd1e5upp5uu360vnmg5asut8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA93crrAHloz-sQ_-h-e12kC8Yq6GkNvNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551054078652-4tbou28pdd1e5upp5uu360vnmg5asut8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
